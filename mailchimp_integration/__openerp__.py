@@ -23,7 +23,7 @@
     "name" : "MailChimp Integration",
     "version" : "1.1",
     "depends" : ["base"],
-    "author" : "TeckZilla - OpenERP Experts",
+    "author" : "TeckZilla - Odoo Experts",
     "description": """"Mailchimp Integration""",
     "website" : "www.teckzilla.net",
     "category" : "Email",
